@@ -1,0 +1,13 @@
+input /ma "Valor Minuet V" <me>
+wait 10.5
+input /ma "Valor Minuet IV" <me>
+wait 10.5
+input /ma "Knight's Minne" <me>
+wait 10.5
+input /ma "Victory March" <me>
+wait 10.5
+input /ja "Clarion Call" <me>
+wait 1
+input /ma "Knight's Minne II" <me>
+wait 10.5
+input /ma "Dextrous Etude" <me>

@@ -1,0 +1,11 @@
+send Aerison hp warp Castle Zvahl Keep 1
+wait 1
+send Astraios hp warp Castle Zvahl Keep 1
+wait 1
+send Greatgai hp warp Castle Zvahl Keep 1
+wait 1
+send Dualz hp warp Castle Zvahl Keep 1
+wait 1
+send Aeeri hp warp Castle Zvahl Keep 1
+wait 1
+send Oppa hp warp Castle Zvahl Keep 1

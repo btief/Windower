@@ -1,0 +1,1 @@
+alias CP_Songs echo "SCRIPTS ENDED" ;

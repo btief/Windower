@@ -1,0 +1,11 @@
+send Aerison hp warp Ra'Kaznar Inner Court 1
+wait 1
+send Astraios hp warp Ra'Kaznar Inner Court 1
+wait 1
+send Greatgai hp warp Ra'Kaznar Inner Court 1
+wait 1
+send Dualz hp warp Ra'Kaznar Inner Court 1
+wait 1
+send Aeeri hp warp Ra'Kaznar Inner Court 1
+wait 1
+send Oppa hp warp Ra'Kaznar Inner Court 1

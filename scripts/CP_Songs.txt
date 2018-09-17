@@ -1,0 +1,11 @@
+input /ma "Valor Minuet V" <me>
+wait 10.5
+input /ma "Valor Minuet IV" <me>
+wait 10.5
+input /ma "Victory March" <me>
+wait 10.5
+input /ma "Advancing March" <me>
+wait 150
+CP_Songs
+
+

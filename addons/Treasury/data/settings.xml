@@ -1,0 +1,20 @@
+<?xml version="1.1" ?>
+<settings>
+    <global>
+        <AutoDrop>false</AutoDrop>
+        <AutoStack>true</AutoStack>
+        <Delay>0</Delay>
+        <Drop />
+        <Lot />
+        <Pass />
+        <Verbose>false</Verbose>
+    </global>
+    <aerison>
+        <AutoDrop>true</AutoDrop>
+        <Drop>Faithful&apos;s Torso I,Hero&apos;s Reflections,Cirdas Visage III,Faithfl. Torso III,Herb Seeds,Arrowwood Log,Faithful&apos;s Legs I,Faithfl. Torso IV,Wootz Ore,Cirdas Visage I,Velkk Mask,Rala Visage IV,Yorcia Visage V,Ra&apos;Ka. Visage I,Faithful&apos;s Torso V,Petrified Log,Yorcia Visage I,Cirdas Visage V,Rala Visage II,Rala Visage III,Guatambu Log,Akaso,Velkk Necklace,Pebble,Ra&apos;Ka. Visage IV,Ra&apos;Ka. Visage II,Iron Sand,Rala Visage V,Rala Visage I,Yorcia Visage III,Divine Log,Ra&apos;Ka. Visage V,Arborfruit Seed,Dryad Root,Cirdas Visage II,Faithful&apos;s Legs III,Mistletoe,Darksteel Ore,Revival Root,Ebony Log,Faithful&apos;s Torso II,Faithful&apos;s Legs V,Lesser Chigoe,Lauan Log,Yorcia Visage II,Arborscent Seed,Yorcia Visage IV,Ra&apos;Ka. Visage III,Titanium Ore,Faithful&apos;s Legs IV,Spider Web,Cirdas Visage IV,Voay Staff -1,Faithful&apos;s Legs II</Drop>
+    </aerison>
+    <dualz>
+        <Lot>Rem&apos;s Tale Ch.4,Rem&apos;s Tale Ch.2,Rem&apos;s Tale Ch.1,Rem&apos;s Tale Ch.5,Rem&apos;s Tale Ch.3</Lot>
+    </dualz>
+</settings>
+ngs>

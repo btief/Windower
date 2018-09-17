@@ -1,0 +1,2 @@
+input /ja "Chain Affinity" <me>
+input /ja "Burst Affinity" <me>

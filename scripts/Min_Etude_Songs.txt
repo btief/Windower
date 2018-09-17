@@ -1,0 +1,15 @@
+input /ma "Knight's Minne" <me>
+wait 6
+input /ma "Knight's Minne II" <me>
+wait 6
+input /ma "Knight's Minne III" <me>
+wait 6
+input /ma "Knight's Minne IV" <me>
+wait 6
+input /ma "Valor Minuet V" <me>
+wait 6
+input /ma "Valor Minuet IV" <me>
+wait 6
+input /ma "Valor Minuet III" <me>
+wait 6
+input /ma "Herculean Etude" <me>

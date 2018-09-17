@@ -1,0 +1,7 @@
+input /ma "Advancing March" <me>
+/wait 7
+input /ma "Victory March" <me>
+/wait 7
+input /ma "Knight's Minne" <me>
+/wait 7
+input /ma "Sentinel's Scherzo" <me>

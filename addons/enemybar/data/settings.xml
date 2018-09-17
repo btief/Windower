@@ -1,0 +1,39 @@
+<?xml version="1.1" ?>
+<settings>
+    <global>
+        <font>Arial</font>
+        <font_size>14</font_size>
+        <hideKey>70</hideKey>
+        <macroBar>
+            <altKey>56</altKey>
+            <ctrlKey>29</ctrlKey>
+            <hide>
+                <enabled>true</enabled>
+            </hide>
+            <move>
+                <enabled>false</enabled>
+                <height>40</height>
+            </move>
+        </macroBar>
+        <pos>
+            <x>970</x>
+            <y>650</y>
+        </pos>
+        <subTargetBar>
+            <height>10</height>
+            <width>200</width>
+        </subTargetBar>
+        <targetBar>
+            <height>10</height>
+            <width>300</width>
+        </targetBar>
+        <text>
+            <bold>true</bold>
+            <font>sans-serif</font>
+            <italic>true</italic>
+            <padding>15</padding>
+            <size>9</size>
+        </text>
+        <useRoundCap>true</useRoundCap>
+    </global>
+</settings>

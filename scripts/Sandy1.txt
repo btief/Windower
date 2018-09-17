@@ -1,0 +1,11 @@
+send Aerison hp warp Southern San d'Oria 1
+wait 1
+send Astraios hp warp Southern San d'Oria 1
+wait 1
+send Greatgai hp warp Southern San d'Oria 1
+wait 1
+send Dualz hp warp Southern San d'Oria 1
+wait 1
+send Aeeri hp warp Southern San d'Oria 1
+wait 1
+send Oppa hp warp Southern San d'Oria 1

@@ -1,0 +1,3 @@
+alias CP_Songs exec CP_Songs.txt;
+
+CP_Songs ;

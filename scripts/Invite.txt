@@ -1,0 +1,9 @@
+send Oppa /pcmd add Aerison
+wait 1.5
+send Oppa /pcmd add Astraios
+wait 1.5
+send Oppa /pcmd add Aeeri
+wait 1.5
+send Oppa /pcmd add Dualz
+wait 1.5
+send Oppa /pcmd add Greatgai

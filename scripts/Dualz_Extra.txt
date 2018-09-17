@@ -1,0 +1,3 @@
+input //send Dualz /ja "Entrust" <me>
+wait 1
+input //send Dualz /ma "Indi-Attunement" Aerison

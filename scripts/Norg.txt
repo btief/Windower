@@ -1,0 +1,11 @@
+send Aerison hp warp Norg 1
+wait 1
+send Astraios hp warp Norg 1
+wait 1
+send Greatgai hp warp Norg 1
+wait 1
+send Dualz hp warp Norg 1
+wait 1
+send Aeeri hp warp Norg 1
+wait 1
+send Oppa hp warp Norg 1

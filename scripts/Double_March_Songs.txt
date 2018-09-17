@@ -1,0 +1,4 @@
+input /ma "Victory March" <me>
+wait 8
+input /ma "Advancing March" <me>
+

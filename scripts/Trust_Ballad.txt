@@ -1,0 +1,15 @@
+input /ja "Pianissimo" <me>
+wait 1
+input /ma "Mage's Ballad III" <Dualz>
+wait 10.5
+input /ja "Pianissimo" <me>
+wait 1
+input /ma "Mage's Ballad II" <Dualz>
+wait 10.5
+input /ja "Pianissimo" <me>
+wait 1
+input /ma "Knight's Minne" <Dualz>
+wait 10.5
+input /ja "Pianissimo" <me>
+wait 1
+input /ma "Mage's Ballad" <Dualz>

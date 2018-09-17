@@ -1,0 +1,11 @@
+send Aerison hp warp Northern San d'Oria 2
+wait 1
+send Astraios hp warp Northern San d'Oria 2
+wait 1
+send Greatgai hp warp Northern San d'Oria 2
+wait 1
+send Dualz hp warp Northern San d'Oria 2
+wait 1
+send Aeeri hp warp Northern San d'Oria 2
+wait 1
+send Oppa hp warp Northern San d'Oria 2

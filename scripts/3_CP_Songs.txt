@@ -1,0 +1,17 @@
+input /ma "Valor Minuet V" <me>
+wait 10.5
+input /ma "Valor Minuet IV" <me>
+wait 10.5
+input /ma "Knight's Minne" <me>
+wait 10.5
+input /ma "Victory March" <me>
+wait 10.5
+input /ja "Pianissimo" <me>
+wait 1
+input /ma "Mage's Ballad III" <me>
+wait 10.5
+input /ja "Pianissimo" <me>
+wait 1
+input /ma "Mage's Ballad II" <me>
+wait 160
+3_CP_Songs

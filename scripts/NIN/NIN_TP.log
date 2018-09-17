@@ -1,0 +1,12 @@
+input /equip head "Walahra turban";
+input /equip neck "Hope torque";
+input /equip ear1 "Brutal earring";
+input /equip ear2 "Suppanomimi";
+input /equip body "Ninja chainmail +1";
+input /equip hands "Dusk gloves +1";
+input /equip ring1 "Rajas ring";
+input /equip ring2 "Mars's ring";
+input /equip back "Cerberus mantle +1";
+input /equip waist "Ninurta's sash";
+input /equip legs "Byakko's haidate";
+input /equip feet "Dust ledelsens +1";

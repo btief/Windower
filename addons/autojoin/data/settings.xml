@@ -1,0 +1,27 @@
+<?xml version="1.1" ?>
+<settings>
+    <global>
+        <autodecline>false</autodecline>
+        <blacklist />
+        <mode>whitelist</mode>
+        <whitelist />
+    </global>
+    <astraios>
+        <whitelist>Dualz,Aerison,Oppa,Aeeri,Greatgai</whitelist>
+    </astraios>
+	<aerison>
+		<whitelist>Dualz,Astraios,Oppa,Aeeri,Greatgai</whitelist>
+	</aerison>
+	<aeeri>
+		<whitelist>Dualz,Astraios,Oppa,Aerison,Greatgai</whitelist>
+	</aeeri>	
+	<dualz>
+		<whitelist>Aerison,Astraios,Oppa,Aeeri,Greatgai</whitelist>
+	</dualz>
+	<greatgai>
+		<whitelist>Aerison,Astraios,Oppa,Aeeri,Greatgai,Dualz</whitelist>
+	</greatgai>
+	<oppa>
+		<whitelist>Aerison,Astraios,Oppa,Aeeri,Greatgai,Dualz</whitelist>
+	</oppa>
+</settings>

@@ -1,0 +1,8 @@
+input /ja "Pianissimo" <me>
+wait 1
+input /ma "Advancing March" <Oppa>
+wait 10.5
+input /ja "Pianissimo" <me>
+wait 1
+input /ma "Victory March" <Oppa>
+

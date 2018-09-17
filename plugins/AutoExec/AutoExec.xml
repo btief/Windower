@@ -1,0 +1,39 @@
+<?xml version="1.0" ?>
+<autoexec>
+<!-- This is an autocreated AutoExec file. the next line is commented out and not going to be ran, its to show an example on how to add commands to this file. -->
+<!--register event="login" silent="true" runonce="true">load expwatch</register-->
+	<register event="chat_party_Oppa_fol">input /follow Oppa </register>
+	<register event="chat_party_Aerison_fol">input /follow Aerison </register>	
+	<register event="chat_party_Dualz_fol">input /follow Dualz </register>	
+	<register event="chat_party_Oppa_mount">input //send @all /raptor </register>
+	<register event="chat_party_Dualz_mount">input //send @all /raptor </register>
+	<register event="chat_party_Oppa_dismount">input //send @all /dismount </register>
+	<register event="chat_party_Dualz_dismount">input //send @all /dismount </register>	
+	<register event="chat_party_Oppa_wring">input //send @all //exec Warp_Ring.txt</register>
+	<register event="chat_party_Oppa_nash1">input //send @all //exec Nashmau.txt</register>
+	<register event="chat_party_Oppa_wa1">input //send @all //exec wa1.txt</register>
+	<register event="chat_party_Oppa_invite">input //send @all //exec Invite.txt</register>
+	<register event="chat_party_Oppa_mis1">input //send @all //exec Mis.txt</register>
+	<register event="chat_party_Oppa_norg1">input //send @all //exec Norg.txt</register>	
+	<register event="chat_party_Oppa_qufim1">input //send @all //exec Qufim.txt</register>	
+	<register event="chat_party_Oppa_sandy1">input //send @all //exec Sandy1.txt</register>	
+	<register event="chat_party_Oppa_nsandy2">input //send @all //exec nsandy2.txt</register>	
+	<register event="chat_party_Oppa_czkeep">input //send @all //exec czkeep.txt</register>	
+	<register event="chat_party_Oppa_tav1">input //send @all //exec tav1.txt</register>		
+	<register event="chat_party_Oppa_tav2">input //send @all //exec tav2.txt</register>	
+	<register event="chat_party_Oppa_sr1">input //send @all //exec SR1.txt</register>		
+	<register event="chat_echo_Oppa_inv">input /pcmd add Aerison</register>
+	<register event="chat_echo_Oppa_inv">input /pcmd add Astraios</register>
+	<register event="chat_echo_Oppa_inv">input /pcmd add Dualz</register>
+	<register event="chat_echo_Oppa_inv">input /pcmd add Aeeri</register>	
+	<register event="chat_party_Oppa_shutdown">input /shutdown </register>
+	<register event="chat_party_Oppa_erase">input /erase Oppa </register>
+	<register event="chat_party_Aeeri_erase">input /erase Aeeri </register>
+	<register event="chat_party_Dualz_erase">input /erase Dualz </register>
+	<register event="chat_party_Aerison_erase">input /erase Aerison </register>
+	<register event="chat_party_Astraios_erase">input /erase Astraios </register>
+	<register event="chat_party_erase">input /erase Astraios </register>
+	<register event="chat_party_Oppa_dispel">input /dispel <bt> </register>	
+	<register event="tp_<100%>">input /hotshot </register>
+	<register event="gainbuff_<slow>">input /p Slowed </register>
+</autoexec>
